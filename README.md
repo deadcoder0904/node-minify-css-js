@@ -1,6 +1,6 @@
 # node-minify-css-js
 
-# Disclosure - It uses joeyism's node-minify-all repository
+# Disclosure: It uses joeyism's node-minify-all repository. All credits to him.
 
 [node-minify-all][a]
 
