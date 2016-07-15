@@ -1,0 +1,14 @@
+{
+  "name": "minify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "minify.js",
+  "scripts": {
+    "start": "node minify.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minify-all": "^1.2.2"
+  }
+}
